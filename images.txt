@@ -1,1 +1,1 @@
-eosphorosai/dbgpt:latest
+dbeaver/cloudbeaver:latest
