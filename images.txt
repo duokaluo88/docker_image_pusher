@@ -1,5 +1,5 @@
 confluentinc/cp-kafka:7.9.2
-acryldata/datahub-actions:head
+acryldata/datahub-actions:head-slim
 acryldata/datahub-frontend-react:head
 acryldata/datahub-gms:head
 acryldata/datahub-upgrade:head
