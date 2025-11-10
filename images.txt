@@ -1,1 +1,7 @@
-alpine:latest
+acryldata/datahub-actions:v1.3.0-slim
+acryldata/datahub-frontend-react:v1.3.0
+acryldata/datahub-gms:v1.3.0
+acryldata/datahub-upgrade:v1.3.0
+acryldata/datahub-elasticsearch-setup:v1.3.0
+acryldata/datahub-kafka-setup:v1.3.0
+acryldata/datahub-mysql-setup:v1.3.0
