@@ -1,12 +1,1 @@
-confluentinc/cp-kafka:7.9.2
-acryldata/datahub-actions:head-slim
-acryldata/datahub-frontend-react:head
-acryldata/datahub-gms:head
-acryldata/datahub-upgrade:head
-elasticsearch:7.10.1
-acryldata/datahub-elasticsearch-setup:head
-acryldata/datahub-kafka-setup:head
-mariadb:10.5.8
-acryldata/datahub-mysql-setup:head
-confluentinc/cp-schema-registry:7.9.2
-confluentinc/cp-zookeeper:7.9.2
+mysql:8.2
