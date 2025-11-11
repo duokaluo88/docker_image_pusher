@@ -1,1 +1,1 @@
-acryldata/datahub-mysql-setup:v1.3.0
+acryldata/datahub-kafka-setup:v1.3.0
